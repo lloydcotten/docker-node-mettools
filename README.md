@@ -13,6 +13,10 @@ Additionally, the following development environments are included:
 * [Python 2.7](https://www.python.org/)
 * [Mono 4](http://www.mono-project.com/)
 
+## Usage
+
+docker run -it --rm lloydcotten/mettools:v1 bash
+
 ## Tags
 
 #### v1
