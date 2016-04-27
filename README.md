@@ -15,7 +15,9 @@ Additionally, the following development environments are included:
 
 ## Usage
 
+```
 docker run -it --rm lloydcotten/mettools:v1 bash
+```
 
 ## Tags
 
