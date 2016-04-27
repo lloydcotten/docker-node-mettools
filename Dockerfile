@@ -16,4 +16,4 @@ RUN apt-get update \
         && apt-get install -y libgfortran3 libgomp1 nco grads \
         && rm -rf /var/lib/apt/lists/*
 
-ADD files/usr /
+ADD files/usr/local/* /usr/local/*
