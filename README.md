@@ -8,10 +8,14 @@ commonly used for manipulating meteorological or oceanographical data.
 * [wgrib2](http://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/)
 * [cnvgrib](http://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/)
 
-Additionally, the following runtime environments are included:
+The following runtime environments are included:
 
 * [Python 2.7](https://www.python.org/)
 * [Mono 4](http://www.mono-project.com/)
+
+These tools are also installed:
+* [pip 1.5.6](https://pip.pypa.io/en/stable/)
+* [AWS CLI 1.10.25](http://aws.amazon.com/cli/)
 
 ## Usage
 
